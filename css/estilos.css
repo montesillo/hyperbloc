@@ -18,6 +18,18 @@ body{
     color: white;
     font-weight: bold;
     padding: 0.5em;
+    display: flex;
+}
+.logo img{
+    width: 30px;
+    vertical-align: middle;
+    padding-right: 50px;
+}
+.title{
+    font-size: 25px;
+}
+.titleSecond{
+    font-size: 20px;
 }
 .post{
     width: 100%;
