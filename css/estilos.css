@@ -23,3 +23,8 @@ body{
     width: 100%;
     padding-top: 10px;
 }
+footer{
+    background: gray;
+    font-size: 25px;
+    color: white;
+}
