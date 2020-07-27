@@ -35,6 +35,9 @@ body{
     width: 100%;
     padding-top: 10px;
 }
+.post img{
+    width: 400px;
+}
 footer{
     background: gray;
     font-size: 25px;
